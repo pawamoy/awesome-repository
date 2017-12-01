@@ -1,4 +1,4 @@
-# [![Awesome][awesome-badge]](https://github.com/sindresorhus/awesome) awesome-repository [![Build Status][travis-badge]](https://travis-ci.org/Pawamoy/awesome-repository)
+# awesome-repository [![Awesome][awesome-badge]](https://github.com/sindresorhus/awesome) [![Build Status][travis-badge]](https://travis-ci.org/Pawamoy/awesome-repository) [![Gitter][gitter-badge]](https://gitter.im/Pawamoy/awesome-repository)
 
 A curated list of services, tools and standards about (open source) repository
 management.
@@ -74,4 +74,5 @@ To the extent possible under law, Timothée Mazzucotelli has waived all copyrigh
 and related or neighboring rights to this work. See [LICENSE](LICENSE).
 
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+[gitter-badge]: https://badges.gitter.im/Pawamoy/awesome-repository.svg
 [travis-badge]: https://api.travis-ci.org/Pawamoy/awesome-repository.svg?branch=master
