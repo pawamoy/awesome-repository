@@ -4,7 +4,7 @@ A curated list of services, tools and standards about (open source) repository m
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+**Table of Contents**
 
 - [Contents](#contents)
   - [Guides](#guides)
@@ -57,7 +57,7 @@ Readme, license, changelog, ...
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, Timothée Mazzucotelli has waived all copyright and
 related or neighboring rights to this work.
