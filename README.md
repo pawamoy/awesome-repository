@@ -23,9 +23,6 @@ management.
 ## Contents
 
 ### Guides
-- [GitHub Community Profile](https://help.github.com/articles/viewing-your-community-profile/):
-  as a repository maintainer, use the community profile checklist to see if your
-  project meets the Open Source Guide's recommended community standards.
 - [Open Source Guides](https://opensource.guide/):
   learn how to launch and grow your project.
 - [The Side Project Marketing Checklist](https://github.com/karllhughes/side-project-marketing):
@@ -49,26 +46,24 @@ Authors, contributors, maintainers and sustainers.
 ### Repository in general
 - [Flint](https://github.com/pengwynn/flint):
   check your project for common sources of contributor friction.
+- [GitHub Community Profile](https://help.github.com/articles/viewing-your-community-profile/):
+  as a repository maintainer, use the community profile checklist to see if your
+  project meets the Open Source Guide's recommended community standards.
 - [Repo Linter](https://github.com/todogroup/repolinter):
   lint open source repositories for common issues.
 
 ### Repository files
-Readme, license, changelog, ...
+Changelog, license and readme.
 
-#### Readme
-- [DocToc](https://github.com/thlorenz/doctoc):
-  generate table of contents for markdown files inside local git repository.
-- [Readme Score](https://github.com/clayallsopp/readme-score):
-  get the README complexity score for a Github repository.
-
-#### License
 - [Choose a license](https://choosealicense.com/):
   a site to provide non-judgmental guidance on choosing a license for your
   open source project.
-
-#### Changelog
+- [DocToc](https://github.com/thlorenz/doctoc):
+  generate table of contents for markdown files inside local git repository.
 - [Keep A Changelog](http://keepachangelog.com/en/1.0.0/):
   don’t let your friends dump git logs into changelogs.
+- [Readme Score](https://github.com/clayallsopp/readme-score):
+  get the README complexity score for a Github repository.
 - [Towncrier](https://github.com/hawkowl/towncrier):
   building newsfiles for your project.
 
