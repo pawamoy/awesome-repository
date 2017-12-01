@@ -12,11 +12,8 @@ management.
   - [People involved](#people-involved)
   - [Repository in general](#repository-in-general)
   - [Repository files](#repository-files)
-    - [Readme](#readme)
-    - [License](#license)
-    - [Changelog](#changelog)
 - [Contribute](#contribute)
-- [License](#license-1)
+- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
