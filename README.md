@@ -32,11 +32,11 @@ Authors, contributors, maintainers and sustainers.
 - [Awesome-Contributing](https://github.com/mntnr/awesome-contributing) –
   Awesome contributing guides for open source development.
 - [Build A Space](https://github.com/mntnr/build-a-space) –
-  Automatically add community documentation to your repository
+  Automatically add community documentation to your repository.
 - [Contributor Covenant](https://www.contributor-covenant.org/) –
   A Code of Conduct for Open Source Projects.
 - [Maintainer.io](https://maintainer.io/) –
-  Scale Open Source Maintenance
+  Scale Open Source Maintenance.
 - [Sustain.md (WIP)](https://github.com/sustainers/sustain.md) –
   The file every project should have in their repository.
 
