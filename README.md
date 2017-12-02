@@ -31,8 +31,6 @@ Authors, contributors, maintainers and sustainers.
 
 - [Awesome-Contributing](https://github.com/mntnr/awesome-contributing) –
   Awesome contributing guides for open source development.
-- [Build A Space](https://github.com/mntnr/build-a-space) –
-  Automatically add community documentation to your repository.
 - [Contributor Covenant](https://www.contributor-covenant.org/) –
   A Code of Conduct for Open Source Projects.
 - [Maintainer.io](https://maintainer.io/) –
@@ -41,6 +39,8 @@ Authors, contributors, maintainers and sustainers.
   The file every project should have in their repository.
 
 ### Repository (general)
+- [Build A Space](https://github.com/mntnr/build-a-space) –
+  Automatically add community documentation to your repository.
 - [Flint](https://github.com/pengwynn/flint) –
   Check your project for common sources of contributor friction.
 - [GitHub Community Profile](https://help.github.com/articles/viewing-your-community-profile/) –
