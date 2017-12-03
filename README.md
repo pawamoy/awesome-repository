@@ -52,6 +52,8 @@ Authors, contributors, maintainers and sustainers.
 ### Repository files
 Changelog, license and readme.
 
+- [Auto-Changelog](https://github.com/CookPete/auto-changelog) –
+  Command line tool for generating a changelog from git tags and commit history.
 - [Choose a license](https://choosealicense.com/) –
   A site to provide non-judgmental guidance on choosing a license for your
   open source project.
