@@ -1,23 +1,13 @@
-# awesome-repository [![Awesome][awesome-badge]](https://github.com/sindresorhus/awesome) [![Build Status][travis-badge]](https://travis-ci.org/Pawamoy/awesome-repository) [![Gitter][gitter-badge]](https://gitter.im/Pawamoy/awesome-repository)
+# awesome-repository [![Awesome][awesome-badge]](https://github.com/sindresorhus/awesome)
 
 A curated list of services, tools and standards about open source repository
 management, and open source communities.
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**
-
-- [Contents](#contents)
-  - [Guides and lists](#guides-and-lists)
-  - [People involved](#people-involved)
-  - [Repository (general)](#repository-general)
-  - [Repository files](#repository-files)
-- [Contribute](#contribute)
-- [License](#license)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 ## Contents
+- [Guides and lists](#guides-and-lists)
+- [People involved](#people-involved)
+- [Repository (general)](#repository-general)
+- [Repository files](#repository-files)
 
 ### Guides and lists
 Guides to build and promote awesome open source projects.
@@ -97,5 +87,3 @@ To the extent possible under law, Timothée Mazzucotelli has waived all copyrigh
 and related or neighboring rights to this work. See [LICENSE](LICENSE).
 
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
-[gitter-badge]: https://badges.gitter.im/Pawamoy/awesome-repository.svg
-[travis-badge]: https://api.travis-ci.org/Pawamoy/awesome-repository.svg?branch=master
