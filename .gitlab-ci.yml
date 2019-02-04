@@ -1,0 +1,5 @@
+test:
+  image: ruby
+  before_script:
+    - gem install awesome_bot
+  script: awesome_bot README.md
