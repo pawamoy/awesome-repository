@@ -18,7 +18,7 @@ Guides to build and promote awesome open source projects.
   Software to make running your open source project a little bit easier.
 - [Open Source Guides](https://opensource.guide/) –
   Learn how to launch and grow your project.
-- [The Side Project Marketing Checklist](https://github.com/karllhughes/side-project-marketing) –
+- [The Side Project Marketing Checklist](https://github.com/portable-cto/side-project-marketing) –
   Comprehensive, chronologically ordered list of marketing tactics and ideas
   that you can try with your next side project.
 
@@ -62,9 +62,9 @@ Auto-generate or get help to choose or improve files or file contents.
   open source project.
 - [DocToc](https://github.com/thlorenz/doctoc) –
   Generate table of contents for markdown files inside local git repository.
-- [GitHub Changelog Generator](https://github.com/skywinder/github-changelog-generator) –
+- [GitHub Changelog Generator](https://github.com/github-changelog-generator/github-changelog-generator) –
   Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
-- [Keep A Changelog](http://keepachangelog.com/en/1.0.0/) –
+- [Keep A Changelog](https://keepachangelog.com/en/1.0.0/) –
   Don’t let your friends dump git logs into changelogs.
 - [Readme Score](https://github.com/clayallsopp/readme-score) –
   Get the README complexity score for a Github repository.
